@@ -59,6 +59,12 @@ nav ul li a::after{
 nav ul li a:hover::after{
     width: 100%;
 }
+#clockDisplay{
+    font-size: 20px;
+    right: 170px;
+}
+
+
 .header-text{
     margin-top: 20%;
     font-size: 30px;
